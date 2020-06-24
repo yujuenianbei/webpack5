@@ -1,0 +1,13 @@
+/* @font-face {
+    font-family: 'MUI-Icons';
+    src: url('../font/MUI-Icons.woff2') format('woff2'),
+        url('../font/MUI-Icons.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+} */
+
+.hello {
+    color: green;
+    /* font-family: 'MUI-Icons'; */
+    /* background: url('../images/icon.svg'); */
+}
